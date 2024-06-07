@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": "b1af",
+      "productName": "Magic Momemts",
+      "productPrice": "1000",
+      "productImage": "https://www.radicokhaitan.com/wp-content/uploads/2019/03/MM-normal.jpg"
+    },
+    {
+      "id": "da50",
+      "productName": "Blenders Pride",
+      "productPrice": "1365",
+      "productImage": "https://www.pernod-ricard.com/sites/default/files/styles/brand_tile_3_in_row_desktop_958x1048_/public/2021-06/brand-blenders-pride-rare-premium-whisky-lifestyle-original.jpg.jpg?itok=xe5J-Jx2"
+    },
+    {
+      "id": "816c",
+      "productName": "Black And White",
+      "productPrice": "2100",
+      "productImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLzpS6-SnQI1WrajZ03Aut77tQqnA_qKa1XgM4xrWGig&s"
+    },
+  
+    {
+      "id": "bb40",
+      "productName": "Smirnoff",
+      "productPrice": "1300",
+      "productImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY6onlTPlfchHyfkL9YoyDYiK7X966er5E50LzKxNy3g&s"
+    }
+  ]
+}
