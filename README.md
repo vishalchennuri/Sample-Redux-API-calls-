@@ -1,3 +1,5 @@
+The way to run Redux  
+
 <!-- COMMANDS TO RUN THIS CODE  -->
 
 1) npm install
